@@ -4,8 +4,12 @@ package variaveis;
 
 import java.util.Scanner;
 
+public class variaveis {
+
+
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
+    	
+    	// TODO Auto-generated method stub
 
         Scanner leia = new Scanner(System.in);
 
@@ -25,7 +29,7 @@ import java.util.Scanner;
 
         System.out.printf("%.2f * %.0f = %f", numero3, numero4, numero3 * numero4);
 
-
+    }
     }
 
-}
+
