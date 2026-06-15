@@ -12,7 +12,7 @@ System.out.println("Calculadora Basica");
 System.out.print("digite o primeiro numero");
 numero1 = leia.nextDouble();
 
-System.out.print("digite o segundo numero");Double();
+System.out.print("digite o segundo numero");
 numero2 = leia.nextDouble();
 
 System.out.printf("\n %2.f + , %.2f = %.2f", numero1, numero2, numero1 + numero2);
